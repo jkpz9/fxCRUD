@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Sat Jun 09 00:54:28 ICT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0163-e089-0d2c-00000358f8d8 
+on database directory C:\Users\hayes96\Desktop\FxCRUDSeries\LibraryLoanSys\books.db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/hayes96/Desktop/FxCRUDSeries/LibraryLoanSys/dist/run1749896075/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_171-b11
+user.dir=C:\Users\hayes96\Desktop\FxCRUDSeries\LibraryLoanSys
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Jun 09 01:00:55 ICT 2018:
+Shutting down instance a816c00e-0163-e089-0d2c-00000358f8d8 on database directory C:\Users\hayes96\Desktop\FxCRUDSeries\LibraryLoanSys\books.db with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
